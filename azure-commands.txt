@@ -1,0 +1,7 @@
+az login
+
+az account set --subscription 46a2fa1a-4a9d-4bf0-9524-c0da2ec4e253
+
+az appservice web log tail --name hstxt --resource-group hstxt-group
+
+(Note: WebSocket must be turned on in Azure)

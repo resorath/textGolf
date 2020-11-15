@@ -1,0 +1,145 @@
+{
+	"Jaina": {
+		"thanks": "Thank you.",
+		"well_played": "Well played.",
+		"greetings": "Hello.",
+		"wow": "Amazing.",
+		"oops": "Whoops.",
+		"threaten": "My magic will tear you apart!",
+		"concede": "You win this one.",
+		"attack": "I'm ready.",
+		"start": "You asked for it!",
+		"mirrored_start":"Oh, it is on.",
+		"time_short": "Time runs out on me!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Malfurion": {
+		"thanks": "My thanks to you.",
+		"well_played": "Hmm, well played.",
+		"greetings": "My greetings.",
+		"wow": "Spectacular!",
+		"oops": "A natural mistake.",
+		"threaten": "Nature will rise against you!",
+		"concede": "I concede to you.",
+		"attack": "For the wilds!",
+		"start": "I must protect the wild!",
+		"mirrored_start": "Nature must be preserved!",
+		"time_short": "Time waits for no one!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Rexxar": {
+		"thanks": "Thanks.",
+		"well_played": "Well played.",
+		"greetings": "Greetings, traveler.",
+		"wow": "Astounding!",
+		"oops": "That didn't quite hit the mark.",
+		"threaten": "I will hint you down!",
+		"concede": "Well fought. I concede.",
+		"attack": "I hunt alone.",
+		"start": "Let the hunt begin!",
+		"mirrored_start": "Bring it on!",
+		"time_short": "Time moves quickly!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Uther": {
+		"thanks": "Thank you.",
+		"well_played": "Well played.",
+		"greetings": "Well met!",
+		"wow": "By the Holy Light!",
+		"oops": "That was a mistake.",
+		"threaten": "Justice demands retribution!",
+		"concede": "The victory is yours.",
+		"attack": "For Justice!",
+		"start": "I will fight with honor!",
+		"mirrored_start": "I will command the light.",
+		"time_short": "I must move quickly!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Anduin": {
+		"thanks": "Thank you.",
+		"well_played": "Well played.",
+		"greetings": "Greetings.",
+		"wow": "Wow...",
+		"oops": "Not quite what was planned.",
+		"threaten": "The light shall burn you!",
+		"concede": "You have bested me.",
+		"attack": "By the light!",
+		"start": "The Light shall bring victory!",
+		"mirrored_start": "Light smiles upon the just!",
+		"time_short": "I must choose quickly!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Valeera": {
+		"thanks": "Thank you.",
+		"well_played": "Well played.",
+		"greetings": "The pleasure is mine.",
+		"wow": "Incredible.",
+		"oops": "Mistakes were made.",
+		"threaten": "I will be your death!",
+		"concede": "I give up.",
+		"attack": "Here we go.",
+		"start": "Watch your back.",
+		"mirrored_start": "I always do.",
+		"time_short": "I must choose soon!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Thrall": {
+		"thanks": "I thank you.",
+		"well_played": "Well played.",
+		"greetings": "Greetings, friend.",
+		"wow": "That's incredible!",
+		"oops": "That was a mistake.",
+		"threaten": "The Elements will destroy you!",
+		"concede": "You win this one, friend",
+		"attack": "Elements guide me!",
+		"start": "For Doomhammer!",
+		"mirrored_start": "For the Frostwolves!",
+		"time_short": "There is little time!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Gul'dan": {
+		"thanks": "Thank you.",
+		"well_played": "Well played.",
+		"greetings": "I greet you.",
+		"wow": "Extraordinary.",
+		"oops": "That was a mistake.",
+		"threaten": "Your soul shall suffer!",
+		"concede": "You win... this time.",
+		"attack": "Suffer!",
+		"start": "Your soul shall be mine!",
+		"mirrored_start": "I am your nightmare!",
+		"time_short": "I'm almost out of time!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	},
+
+	"Garrosh": {
+		"thanks": "My thanks.",
+		"well_played": "Well played.",
+		"greetings": "Heh, Greetings.",
+		"wow": "Astonishing!",
+		"oops": "That was an error.",
+		"threaten": "I will crush you!",
+		"concede": "I choose death!",
+		"attack": "Lok'tar ogar!",
+		"start": "Victory or Death!",
+		"mirrored_start": "Hahaha! Bring it on!",
+		"time_short": "I must choose!",
+		"low_cards": "I'm almost out of cards!",
+		"out_of_cards": "I'm out of cards!"
+	}
+}
